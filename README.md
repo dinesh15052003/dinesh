@@ -26,10 +26,10 @@
 
 ## Skills
 <div>
+  <img src="https://img.shields.io/badge/Python-5D3FD3?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/C-000080?style=for-the-badge&logo=c&logoColor=white">
    <img src="https://img.shields.io/badge/C%2B%2B-1F51FF?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-0096FF?style=for-the-badge&logo=Java">
-  <img src="https://img.shields.io/badge/Python-5D3FD3?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-1F51FF?style=for-the-badge">
   <br>
   <img src="https://img.shields.io/badge/Unity-110000?style=for-the-badge&logo=unity&logoColor=white">
