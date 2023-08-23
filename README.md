@@ -19,9 +19,12 @@
 
 
 
-
+## Youtube Portfolio Link
+ <a href="https://www.youtube.com/channel/UCBZSeML7T6UTAkqqAJh6OmA"> <img src="https://img.shields.io/badge/Youtube-%23FF0000?style=for-the-badge&logo=youtube"> </a>
                                                                                                                 
 ## Contact Me
+ <a href="mailto:dinesh15052003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+
  <a href= "https://www.linkedin.com/in/dinesh-dhanshekhar-867678200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Skills
