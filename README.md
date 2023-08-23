@@ -36,7 +36,8 @@
   <img src="https://img.shields.io/badge/ARFoundation-9F2B68?style=for-the-badge">
   <img src="https://img.shields.io/badge/ARCore-702963?style=for-the-badge">
   <img src="https://img.shields.io/badge/ARKit-C3B1E1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Quest%202-1C1E20?style=for-the-badge&logo=Oculus">
+  <img src="https://img.shields.io/badge/Oculus%202-1C1E20?style=for-the-badge&logo=Oculus">
+  <img src="https://img.shields.io/badge/Meta%20Quest%202-%230467DF?style=for-the-badge&logo=meta">
   <br>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
