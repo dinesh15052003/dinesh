@@ -39,7 +39,8 @@
   <img src="https://img.shields.io/badge/ARFoundation-9F2B68?style=for-the-badge">
   <img src="https://img.shields.io/badge/ARCore-702963?style=for-the-badge">
   <img src="https://img.shields.io/badge/ARKit-C3B1E1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Oculus%202-1C1E20?style=for-the-badge&logo=Oculus">
+  <br>
+  <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus">
   <img src="https://img.shields.io/badge/Meta%20Quest%202-%230467DF?style=for-the-badge&logo=meta">
   <br>
   
@@ -56,6 +57,6 @@
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinesh15052003&show_icons=true&&&count_private=true&include_all_commits=true&theme=tokyonight" display=block width=100% height=auto align="center" alt="1"></td>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh15052003&theme=tokyonight&layout=compact" display=block height=180 width=200% align="center" alt="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh15052003&theme=tokyonight&layout=compact" display=block height=180 width=auto align="center" alt="2">
     </td></tr>
   </table>
